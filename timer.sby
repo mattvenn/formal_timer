@@ -1,0 +1,12 @@
+[options]
+mode cover
+
+[engines]
+smtbmc
+
+[script]
+read -formal timer.v
+prep -top timer
+
+[files]
+timer.v
