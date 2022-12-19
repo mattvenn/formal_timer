@@ -2,10 +2,10 @@
 [*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
 [*] Sun Jan 17 18:52:29 2021
 [*]
-[dumpfile] "/home/matt/work/asic-workshop/part3_demo/timer/engine_0/trace.vcd"
+[dumpfile] "./timer/engine_0/trace0.vcd"
 [dumpfile_mtime] "Sun Jan 17 18:51:24 2021"
 [dumpfile_size] 1044
-[savefile] "/home/matt/work/asic-workshop/part3_demo/formal.gtkw"
+[savefile] "./formal.gtkw"
 [timestart] 0
 [size] 1582 856
 [pos] -1 -1
