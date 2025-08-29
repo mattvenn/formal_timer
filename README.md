@@ -12,4 +12,3 @@ This repo is part of the [Zero to ASIC course](https://zerotoasiccourse.com) and
 # Resources
 
 * SBY docs https://symbiyosys.readthedocs.io/en/latest/index.html
-* Getting started with Formal Verification youtube course: https://www.youtube.com/playlist?list=PLX1FD-Xa88fbMhT-tTe67O2gz_UwEjz9-
